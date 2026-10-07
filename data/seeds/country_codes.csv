@@ -1,0 +1,16 @@
+country_code,country,region,iso_currency
+1,India,South Asia,INR
+14,Australia,Oceania,AUD
+30,Brazil,Latin America,BRL
+37,Canada,North America,CAD
+94,Indonesia,South-East Asia,IDR
+148,New Zealand,Oceania,NZD
+162,Philippines,South-East Asia,PHP
+166,Qatar,Middle East,QAR
+184,Singapore,South-East Asia,SGD
+189,South Africa,Africa,ZAR
+191,Sri Lanka,South Asia,LKR
+208,Turkey,Europe,TRY
+214,UAE,Middle East,AED
+215,United Kingdom,Europe,GBP
+216,United States,North America,USD

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.ipynb_checkpoints/
+
+# Raw data is licensed by Kaggle and not redistributed; generated outputs are rebuilt by the pipeline
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+reports/*
+!reports/.gitkeep
+*.duckdb
+*.duckdb.wal

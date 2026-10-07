@@ -1,0 +1,16 @@
+iso_currency,gbp_per_unit,rate_basis
+GBP,1.0,identity
+INR,0.01192,approx 2017 annual average (data vintage)
+USD,0.7760,approx 2017 annual average (data vintage)
+AUD,0.5950,approx 2017 annual average (data vintage)
+CAD,0.5980,approx 2017 annual average (data vintage)
+SGD,0.5620,approx 2017 annual average (data vintage)
+BRL,0.2430,approx 2017 annual average (data vintage)
+AED,0.2113,approx 2017 annual average (data vintage)
+IDR,0.0000575,approx 2017 annual average (data vintage)
+NZD,0.5520,approx 2017 annual average (data vintage)
+PHP,0.01538,approx 2017 annual average (data vintage)
+QAR,0.2131,approx 2017 annual average (data vintage)
+ZAR,0.05830,approx 2017 annual average (data vintage)
+LKR,0.00510,approx 2017 annual average (data vintage)
+TRY,0.2128,approx 2017 annual average (data vintage)
